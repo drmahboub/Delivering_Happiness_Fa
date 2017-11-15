@@ -5,13 +5,22 @@
 
 h1 {
     font-family: vazir;
+    direction: rtl;    
 }
 
 h2 {
     font-family: vazir;
+    direction: rtl;    
+}
+
+a {
+    font-family: vazir;
+    direction: rtl;
+    text-align: center;
 }
 
 p {
     font-family: vazir;
+    direction: rtl;    
     text-align: justify;
 }

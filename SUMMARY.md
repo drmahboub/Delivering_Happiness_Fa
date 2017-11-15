@@ -1,6 +1,6 @@
 # Summary
 
-* [جلد](Cover.md)
+* [جلد](README.md)
 * [سخن مترجم](Translator.md)
-* [دیباچه](README.md)
+* [دیباچه](Preface.md)
 
