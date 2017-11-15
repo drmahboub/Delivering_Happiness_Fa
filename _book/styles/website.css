@@ -16,11 +16,19 @@ h2 {
 a {
     font-family: vazir;
     direction: rtl;
-    text-align: center;
+    text-align: right;
 }
 
 p {
     font-family: vazir;
     direction: rtl;    
     text-align: justify;
+}
+
+input {
+    text-align: left;
+}
+
+.gitbook-link {
+    text-align: left;
 }
