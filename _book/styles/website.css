@@ -1,0 +1,16 @@
+@font-face {
+    font-family: vazir;
+    src: url(/fonts/vazir/zavir.ttf);
+}
+
+h1 {
+    font-family: vazir;
+}
+
+h2 {
+    font-family: vazir;
+}
+
+p {
+    font-family: vazir;
+}
