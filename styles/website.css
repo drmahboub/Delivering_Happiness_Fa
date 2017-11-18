@@ -25,6 +25,10 @@ p {
     text-align: justify;
 }
 
+ul {
+    list-style-type: circle;
+}
+
 li {
     font-family: vazir;
     direction: rtl;    
