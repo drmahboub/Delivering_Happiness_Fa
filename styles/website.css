@@ -13,6 +13,16 @@ h2 {
     direction: rtl;    
 }
 
+h3 {
+    font-family: vazir;
+    direction: rtl;    
+}
+
+h4 {
+    font-family: vazir;
+    direction: rtl;    
+}
+
 a {
     font-family: vazir;
     direction: rtl;
