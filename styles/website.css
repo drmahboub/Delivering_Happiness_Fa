@@ -40,6 +40,10 @@ ul {
     list-style-position: inside;
 }
 
+ol {
+    list-style-position: inside;
+}
+
 li {
     font-family: vazir;
     direction: rtl;    
