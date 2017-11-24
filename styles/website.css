@@ -1,63 +1,46 @@
 @font-face {
-    font-family: vazir;
-    src: url(/fonts/vazir/zavir.ttf);
+    font-family: Vazir;
+    src: url(fonts/vazir/Vazir.eot);
+    src: url(fonts/vazir/Vazir.eot?#iefix) format("embedded-opentype"), url(fonts/vazir/Vazir.woff) format("woff"), url(fonts/vazir/Vazir.ttf) format("truetype");
+    font-weight: 400
 }
-
-h1 {
-    font-family: vazir;
-    direction: rtl;    
+@font-face {
+    font-family: Vazir;
+    src: url(fonts/vazir/Vazir-Bold.eot);
+    src: url(fonts/vazir/Vazir-Bold.eot?#iefix) format("embedded-opentype"), url(fonts/vazir/Vazir-Bold.woff) format("woff"), url(fonts/vazir/Vazir-Bold.ttf) format("truetype");
+    font-weight: 700
 }
-
-h2 {
-    font-family: vazir;
-    direction: rtl;    
+@font-face {
+    font-family: Vazir;
+    src: url(fonts/vazir/Vazir-Light.eot);
+    src: url(fonts/vazir/Vazir-Light.eot?#iefix) format("embedded-opentype"), url(fonts/vazir/Vazir-Light.woff) format("woff"), url(fonts/vazir/Vazir-Light.ttf) format("truetype");
+    font-weight: 300
 }
-
-h3 {
-    font-family: vazir;
-    direction: rtl;    
-}
-
-h4 {
-    font-family: vazir;
-    direction: rtl;    
-}
-
-a {
-    font-family: vazir;
+body,
+html,
+p,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+span {
+    font-family: 'Vazir';
     direction: rtl;
-    text-align: right;
+    text-align: right
 }
-
-p {
-    font-family: vazir;
-    direction: rtl;    
-    text-align: justify;
-}
-
 ul {
     list-style-type: disc;
     list-style-position: inside;
 }
-
 ol {
     list-style-position: inside;
 }
-
-li {
-    font-family: vazir;
-    direction: rtl;    
-    text-align: justify;
-}
-
-input {
-    text-align: left;
-}
-
-.gitbook-link {
-    text-align: left;
-}
-
+input,
+.gitbook-link,
 .custom-link {
     text-align: left;
 }
