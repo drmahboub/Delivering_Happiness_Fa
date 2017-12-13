@@ -1,3 +1,5 @@
+
+<div style="direction:ltr; text-align: left">
 At Zappos, we don’t measure call times (our longest phone call was almost six hours long!), and we don’t upsell. We just care about whether the rep goes above and beyond for every customer. We don’t have scripts because we trust our employees to use their best judgment when dealing with each and every customer. We want our reps to let their true personalities shine during each phone call so that they can develop a personal emotional connection (internally referred to as PEC) with the customer.
 
 Another example of us using the telephone as a branding device is what happens when a customer calls looking for a specific style of shoes in a specific size that we’re out of stock on. In those instances, every rep is trained to research at least three competitors’ Web sites, and if the shoe is found in stock to direct the customer to the competitor. Obviously, in those situations, we lose the sale. But we’re not trying to maximize each and every transaction. Instead, we’re trying to build a lifelong relationship with each customer, one phone call at a time.
@@ -2260,4 +2262,4 @@ www.businessplusblog.com
 
 
 
-
+</div>
